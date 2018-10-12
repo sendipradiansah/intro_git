@@ -21,7 +21,12 @@
 
 <?php
 function status(){
+ $status = 0;
+}
 
+function penambahan($a){
+	$c = $a + $a;
+	return $c;
 }
 
 ?>
