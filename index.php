@@ -29,10 +29,15 @@ function penambahan($a){
 	return $c;
 }
 
-function pengurangan($d){
+function pengurangan($a){
     $d = $a - $a;
     return $d;
-}    
+}   
+
+function pembagian($a){
+	$e = $a - $a;
+	return $e; 
+}
     
 ?>
 </html>
