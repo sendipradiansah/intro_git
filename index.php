@@ -35,9 +35,10 @@ function pengurangan($a){
 }   
 
 function pembagian($a){
-	$e = $a - $a;
+	$e = $a / $a;
 	return $e; 
 }
+
     
 ?>
 </html>
